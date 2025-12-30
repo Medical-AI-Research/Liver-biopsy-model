@@ -185,4 +185,23 @@ Academic projects and publications
 <img width="464" height="642" alt="image" src="https://github.com/user-attachments/assets/ab522270-bf0e-4518-97af-bd7f9b9d5d1d" />
 <img width="475" height="534" alt="image" src="https://github.com/user-attachments/assets/e15cbdd9-099d-4b1f-a724-dad9d770f7ce" />
 
+## Ethical and Usage Disclaimer
+This project is:
+- **For research and educational use only**
+- **Not validated for clinical decision-making**
+- **Not a medical device**
+- **Not approved for diagnostic or therapeutic purposes**
 
+Any clinical interpretation of results is **explicitly disclaimed**.
+
+---
+
+## License
+This project is released under the **Apache License 2.0** to support open research, reproducibility, and responsible reuse.
+
+---
+
+## Citation
+If you use this code in academic work, please cite the corresponding paper Deep Learning for Multi-Class Liver Histopathology Image Classification
+
+---
