@@ -181,3 +181,8 @@ Explainable AI demonstrations
 Academic projects and publications
 ## Outputs
 - Best model checkpoints saved to:
+<img width="482" height="494" alt="image" src="https://github.com/user-attachments/assets/0a3fa9e6-f842-4023-a889-cdad8f440d37" />
+<img width="464" height="642" alt="image" src="https://github.com/user-attachments/assets/ab522270-bf0e-4518-97af-bd7f9b9d5d1d" />
+<img width="475" height="534" alt="image" src="https://github.com/user-attachments/assets/e15cbdd9-099d-4b1f-a724-dad9d770f7ce" />
+
+
